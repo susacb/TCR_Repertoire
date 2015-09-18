@@ -13,3 +13,4 @@ Interactive longitudinal comparison of individual TCR clones (RCharts). Plots ar
 ![clonotypes](rcharts_clonotypes.png)
 #### Spectratypes
 Using statistical tests of normality (example Shapiro-Wilk test), spectratype plots of different TRBV genes can be visually simplified in a heatmap.
+![heatmap](rcharts_heatmap.png)
